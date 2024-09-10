@@ -1,5 +1,4 @@
 # Bhuvan Arora
-![Image] ({{"/img/b2.jpg" | relative_url }})
 
 ## Product leader with over a decade of experience building digital products in startups and large tech companies.
 
