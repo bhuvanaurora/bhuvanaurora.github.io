@@ -1,4 +1,5 @@
 # Bhuvan Arora
+![IMG_2382](https://github.com/user-attachments/assets/51016b55-3df7-4c4c-a567-e930c96ae70f)
 
 ## Product leader with over a decade of experience building digital products in startups and big tech companies.
 
