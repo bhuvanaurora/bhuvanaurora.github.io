@@ -4,5 +4,5 @@
 
 ## Learn more
 - [LinkedIn](https://www.linkedin.com/in/bhuvanaurora/)
-- [bhuvanurora.substack.com](bhuvanaurora.substack.com)
+- [bhuvanurora.substack.com](https://bhuvanaurora.substack.com)
 - [bhuvan.aurora@gmail.com](mailto:bhuvan.aurora@gmail.com)
