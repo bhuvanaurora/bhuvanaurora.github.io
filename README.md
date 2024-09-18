@@ -5,8 +5,8 @@
 
 ## Learn more
 - [LinkedIn](https://www.linkedin.com/in/bhuvanaurora/)
-- [bhuvanurora.substack.com](https://bhuvanaurora.substack.com)
 - [bhuvan.aurora@gmail.com](mailto:bhuvan.aurora@gmail.com)
+- [bhuvanurora.substack.com](https://bhuvanaurora.substack.com)
 
 ## Some of my recent posts:
 - [RAG 101](https://bhuvanaurora.substack.com/p/rag-retrieval-augmented-generation)
